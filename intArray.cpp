@@ -3,7 +3,7 @@
 // and how they are used.
 // CS320
 // November 25, 2020
-// @author Aiden Perez cssc2658
+// @author Aiden Perez cssc****
 
 
 #include <stdlib.h>
